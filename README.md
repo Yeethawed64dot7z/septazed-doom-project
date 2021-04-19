@@ -1,4 +1,5 @@
 # septazed-doom-project
+i will try to make this zdoom based because gzdoom is still in some development.
 by team septazed (i will add members as i go if they contributed)
 right now it's just only Yeethawed64.7z if you want to join i will put my discord server here later.
 --------------------------------------------------
@@ -8,7 +9,7 @@ right now it's just only Yeethawed64.7z if you want to join i will put my discor
 ~directX support (i think Gz does all i know is it has vulkan and opengl)
 ~local p2p server support (this is going to be agonizing)
 ~vr has already been done but the issue with vr is it is way too ridiculous to code
-~load polys based on how far O.O.S. it is (customizable)
+~load polys based on how far O.O.S. it is (customizable) 0-all polys
 ~somehow in some ridiculous way get raytracing to work.
 ~3d models (i'll emphasize more later)
 ~auto designate setting based on hardware and manage to get a fully functional pre launch options menu with lump autodetection.
