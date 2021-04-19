@@ -1,8 +1,8 @@
 # septazed-doom-project
-i will try to make this zdoom based because gzdoom is still in some development.
-zdoom does have a better options menu than prboom+ imo so we're going with the latter
 by team septazed (i will add members as i go if they contributed)
 right now it's just only Yeethawed64.7z if you want to join i will put my discord server here later.
+i will try to make this zdoom based because gzdoom is still in some development.
+zdoom does have a better options menu than prboom+ imo so we're going with the latter
 --------------------------------------------------
 ~ the planned features
 
